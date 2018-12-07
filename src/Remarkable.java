@@ -3,8 +3,8 @@ import javax.swing.JOptionPane;
 public class Remarkable {
 public static void main(String[] args) {
 	String mon = JOptionPane.showInputDialog("what is your name?");
-	if (mon.equals("crazyblox"))  {
-		JOptionPane.showMessageDialog(null, "Your REMARKABLE for creating flood escape 2.");}
+	if (mon.equals("TypicalType"))  {
+		JOptionPane.showMessageDialog(null, "Your REMARKABLE for creating Epic Minigames.");}
 		else if (mon.equals("colin"))	{
 				JOptionPane.showMessageDialog(null, "Your remarkable for driving your mom crazy."); }
 				else if 	(mon.equals("henry")) {
